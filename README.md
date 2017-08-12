@@ -1,2 +1,2 @@
 # restful-node-api-swagger
-Tuto sobre aplicação RESTful usando Node.Js com Swagger
+Tuto sobre aplicação RESTful usando Node.Js com Swagger Code4Coders.
